@@ -1,0 +1,18 @@
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Platform folders (android/, web/, windows/, …) are generated once by
+# `flutter create .` and SHOULD be committed after that — they will contain
+# your manifest permissions, google-services.json, icons, etc.
+
+# Keystores must never be committed:
+*.jks
+*.keystore
+key.properties

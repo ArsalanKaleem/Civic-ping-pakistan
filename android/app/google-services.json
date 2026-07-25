@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335880283840",
+    "project_id": "civic-ping-pk",
+    "storage_bucket": "civic-ping-pk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335880283840:android:5a9c251e4553e0e6576f25",
+        "android_client_info": {
+          "package_name": "com.example.civicping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335880283840-1lbutfk4q491og78291o7dhbdtb2tim5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWw2HXYpSavls6eHctA8AMT3vBeSAE2bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335880283840-1lbutfk4q491og78291o7dhbdtb2tim5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
