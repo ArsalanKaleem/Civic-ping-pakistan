@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "335880283840-4l0hjgvroilon17kalpbcapkpeegeevj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.civicping",
+            "certificate_hash": "bc937e4be1a0df1b70431eed75ff07971e80964a"
+          }
+        },
+        {
           "client_id": "335880283840-1lbutfk4q491og78291o7dhbdtb2tim5.apps.googleusercontent.com",
           "client_type": 3
         }
