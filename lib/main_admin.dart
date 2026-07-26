@@ -16,7 +16,7 @@ import 'core/bootstrap.dart';
 
 Future<void> main() async {
   runApp(await bootstrap(
-    title: 'CivicPing — Admin Console',
+    title: 'CivicPing — Admin Console (Authorized Access Only',
     home: const _AdminRoot(),
   ));
 }
