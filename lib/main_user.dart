@@ -18,7 +18,7 @@ import 'user/user_shell.dart';
 
 Future<void> main() async {
   runApp(await bootstrap(
-    title: 'CivicPing Pakistan',
+    title: 'CivicPing Pakistan @2026',
     home: const _UserRoot(),
   ));
 }
